@@ -42,21 +42,21 @@ export const DATA = {
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://dub.sh/dillion-linkedin",
+        url: "https://www.linkedin.com/in/rahmat5090/",
         icon: Icons.linkedin,
 
         navbar: true,
       },
       X: {
         name: "X",
-        url: "https://dub.sh/dillion-twitter",
+        url: "",
         icon: Icons.x,
 
         navbar: true,
       },
       Youtube: {
         name: "Youtube",
-        url: "https://dub.sh/dillion-youtube",
+        url: "",
         icon: Icons.youtube,
         navbar: true,
       },
@@ -72,11 +72,11 @@ export const DATA = {
 
   work: [
     {
-      company: "Atomic Finance",
-      href: "https://atomic.finance",
+      company: "Heex Technologie",
+      href: "https://www.heex.io/",
       badges: [],
-      location: "Remote",
-      title: "Bitcoin Protocol Engineer",
+      location: "Paris - Remote",
+      title: "QA Automation Engineer",
       logoUrl: "/atomic.png",
       start: "May 2021",
       end: "Oct 2022",
