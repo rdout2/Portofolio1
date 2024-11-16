@@ -77,7 +77,7 @@ export const DATA = {
       badges: [],
       location: "Paris - Remote",
       title: "QA Automation Engineer",
-      logoUrl: "/atomic.png",
+      logoUrl: "/heex.png",
       start: "May 2021",
       end: "Oct 2022",
       description:
